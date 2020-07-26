@@ -1,0 +1,30 @@
+body{
+	background-color: black;
+}
+#bgimage img{
+	height:400px;
+	width: 100%;
+}
+.card border-info mb-3{
+	margin-top: -50px;
+}
+#las{
+	float: right;
+}
+.list-group-item{
+	background-color: #26609b;
+}
+.card{
+	background-color: black;
+}
+#asi{
+	height:5%;
+	width:33%;
+	float: right;
+}
+.card-title{
+	color:white;
+}
+.card-text{
+	color:white;
+}
